@@ -1,1 +1,2 @@
-# project1-Orxan
+# The first project of Bootcamp
+# Список инвестиционных монет
